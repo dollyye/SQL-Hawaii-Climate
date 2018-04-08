@@ -1,1 +1,2 @@
-# Climate Analysis on Hawaii with API available
+# Precipitation and Climate Analysis on Hawaii
+# Climate API created using Flask
